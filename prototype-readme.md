@@ -15,7 +15,7 @@ chấm điểm ngay sau khi học sinh trả lời, giải thích kết quả, v
 
 ## Links
 - Prototype: prototype
-- Video demo (backup): Movies & TV 2026-04-09 22-36-03.mp4
+- Video demo (backup): [Movies & TV 2026-04-09 22-36-03.mp4](https://drive.google.com/file/d/1YcEaBU4nvribPW73-EafSFYrhpy96eXk/view?usp=sharing)
 
 ## Tools
 - UI: HTML/CSS/JS hoặc Claude Artifacts
